@@ -2,7 +2,7 @@
 from requests.sessions import codes, default_headers
 import telebot, requests, re, json
 
-PRIVADO = [1900135678]
+PRIVADO = [5718158766]
 #
 #
 GRUPO = [-1001348184923,-1001188581849,-1001507770035,-1001158279648,-1001503602761,-1001396629407,-1001456302751,-1001598127500,-1001429515931]
@@ -12,7 +12,9 @@ EXCEPT = []
 #
 #
 ANONY = [] # OFF
-bot = telebot.TeleBot("5553597114:AAHxqaFMA29iyn_xpxCped6wY6H8JCOr0wA")
+bot = telebot.TeleBot("5534487762:AAGjDDXXMozhAeKrM8vvU5cpamVt4oDvVRs")
+		      
+		
 
 description = "\n\nInformações By @Rtzinmaker"
 
