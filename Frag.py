@@ -5,7 +5,7 @@ import telebot, requests, re, json
 PRIVADO = [5718158766]
 #
 #
-GRUPO = [-1001348184923,-1001188581849,-1001507770035,-1001158279648,-1001503602761,-1001396629407,-1001456302751,-1001598127500,-1001429515931]
+GRUPO = []
 #
 #
 EXCEPT = []
@@ -16,7 +16,7 @@ bot = telebot.TeleBot("5534487762:AAGjDDXXMozhAeKrM8vvU5cpamVt4oDvVRs")
 		      
 		
 
-description = "\n\nInformações By @Rtzinmaker"
+description = "\n\nEm Desenvolvimentos @Trashzinhoozk"
 
 @bot.message_handler(commands=['cnpj'])
 def zn(nome):
@@ -79,7 +79,7 @@ def zn(nome):
 
 ✅ 𝙋𝙞𝙭
 
-<a href='http://t.me/Rtzinmaker>Contratar Planos</a>
+<a href='http://t.me/TrashzinRefs>Contratar Planos</a>
 ━━━━━━━━━━━━━━━━━''', parse_mode='html')
 
 
@@ -258,7 +258,7 @@ def zn(nome):
 
 ✅ 𝙋𝙞𝙭
 
-<a href='http://t.me/itachivendas'>Contratar Planos</a>
+<a href='http://t.me/TrashzinRefs'>Contratar Planos</a>
 ━━━━━━━━━━━━━━━━━''', parse_mode='html')
 
 
