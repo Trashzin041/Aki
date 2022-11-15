@@ -12,7 +12,7 @@ EXCEPT = []
 #
 #
 ANONY = [] # OFF
-bot = telebot.TeleBot("5534487762:AAGjDDXXMozhAeKrM8vvU5cpamVt4oDvVRs")
+bot = telebot.TeleBot("5640437444:AAFCS1DCSpQQf3cTyjl1NsaQ-nUo7YvRoCM")
 
 description = "\n\nInformações By @Rtzinmaker"
 
